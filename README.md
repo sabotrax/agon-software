@@ -32,3 +32,6 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [agon-ez80asm](https://github.com/envenomator/agon-ez80asm) - ez80 assembler, running natively on the Agon platform.
 - [BBC Basic](https://github.com/breakintoprogram/agon-bbc-basic) - Official AGON QUARK Firmware: BASIC Interpreter.
 - [BBC Basic ADL](https://github.com/breakintoprogram/agon-bbc-basic-adl) - Official AGON QUARK Firmware: BASIC Interpreter (ADL version).
+
+## License
+This list is under the [Creative Commons Attribution 4.0 International](https://github.com/sabotrax/agon-software/blob/main/LICENSE) License. Terms of the license are summarized [here](https://choosealicense.com/licenses/cc-by-4.0/).
