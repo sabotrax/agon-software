@@ -26,7 +26,7 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [Rokky](https://github.com/nihirash/Agon-rokky) - Dungeons and Diamonds game for Agon Light.
 
 ## Graphical demos
-- [Bad Apple](https://movievertigo.github.io/downloads/agonlight/badapple/) - An Agon Light port of Bad Apple.
+- [Bad Apple](https://movievertigo.github.io/downloads/agonlight/badapple/) - An Agon Light port of Bad Apple. ([Preview on YouTube](https://www.youtube.com/watch?v=VRQPftkXF1Q))
 
 ## Operating systems
 - [CP/M 2.2 for Agon Light](https://github.com/nihirash/Agon-CPM2.2) - CP/M 2.2 port for Agon Light that didn't require custom firmware. Use your Agon fully and have access to CP/M system.
