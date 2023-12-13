@@ -8,10 +8,12 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [Emulators](#emulators)
 - [Firmware](#firmware)
 - [Games](#games)
+- [Graphical demos](#graphical-demos)
 - [Operating systems](#operating-systems)
 - [Programming languages](#programming-languages)
 ---
 ## Editors
+- [AED: Another Text Editor](https://github.com/avalonbits/aed) - Another Text Editor.
 - [nano](https://github.com/lennart-benschop/agon-utilities#nano) - Editor with nano-style key bindings.
 
 ## Emulators
