@@ -43,6 +43,7 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 
 ## Utilities
 - [agon_64cfontloader](https://github.com/eightbitswide/agon_64cfontloader) - Load .64c fonts on the Agon in BBC BASIC.
+- [Sprite editor](https://github.com/robogeek42/agon_sped) - sped.bas is a sprite editor for the Agon series of retro computers.
 
 ## License
 This list is under the [Creative Commons Attribution 4.0 International](https://github.com/sabotrax/agon-software/blob/main/LICENSE) License. Terms of the license are summarized [here](https://choosealicense.com/licenses/cc-by-4.0/).
