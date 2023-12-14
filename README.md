@@ -9,6 +9,7 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [Firmware](#firmware)
 - [Games](#games)
 - [Graphical demos](#graphical-demos)
+- [Internet](#internet)
 - [Operating systems](#operating-systems)
 - [Programming languages](#programming-languages)
 - [Utilities](#utilities)
@@ -32,9 +33,13 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [Realm](https://github.com/NicholasPratt/Realm) - An adventure game for Agon Light.
 - [Rokky](https://github.com/nihirash/Agon-rokky) - Dungeons and Diamonds game for Agon Light.
 - [Sokoban](https://github.com/envenomator/agon-sokoban) - A custom port of the Sokoban game for the Agon platform.
+- [Vezza](https://sijnstra.itch.io/vezza-agon) - Vezza is a tool for running Infocom compatible (Z-machine) text adventure games.
 
 ## Graphical demos
 - [Bad Apple](https://movievertigo.github.io/downloads/agonlight/badapple/) - An Agon Light port of Bad Apple. ([Preview on YouTube](https://www.youtube.com/watch?v=VRQPftkXF1Q))
+
+## Internet
+- [Snail](https://github.com/nihirash/Agon-MOS-Tools/tree/main/esp8266/snail) - Fast gopher browser for Agon Light (and Agon Light 2).
 
 ## Operating systems
 - [CP/M 2.2 for Agon Light](https://github.com/nihirash/Agon-CPM2.2) - CP/M 2.2 port for Agon Light that didn't require custom firmware. Use your Agon fully and have access to CP/M system.
