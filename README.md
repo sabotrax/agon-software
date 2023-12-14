@@ -23,6 +23,7 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 
 ## Firmware
 - [Agon MOS](https://github.com/breakintoprogram/agon-mos) - Official AGON QUARK Firmware: eZ80 MOS.
+- [Agon VDP](https://github.com/breakintoprogram/agon-vdp) - Official AGON QUARK Firmware: ESP32 VDP.
 
 ## Games
 - [AgonLight Game Library](https://github.com/eightbitswide/AgonLight-Game-Library) - Games for the BBC Micro and Electron converted for AgonLight.
