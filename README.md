@@ -30,6 +30,7 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [Game of Life](https://github.com/craiglp/agon-life) - Conway's Game of Life for the Agon Light.
 - [Realm](https://github.com/NicholasPratt/Realm) - An adventure game for Agon Light.
 - [Rokky](https://github.com/nihirash/Agon-rokky) - Dungeons and Diamonds game for Agon Light.
+- [Sokoban](https://github.com/envenomator/agon-sokoban) - A custom port of the Sokoban game for the Agon platform.
 
 ## Graphical demos
 - [Bad Apple](https://movievertigo.github.io/downloads/agonlight/badapple/) - An Agon Light port of Bad Apple. ([Preview on YouTube](https://www.youtube.com/watch?v=VRQPftkXF1Q))
@@ -46,7 +47,9 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 
 ## Utilities
 - [agon_64cfontloader](https://github.com/eightbitswide/agon_64cfontloader) - Load .64c fonts on the Agon in BBC BASIC.
+- [agon-flash](https://github.com/envenomator/agon-flash) - Agon firmware update utility.
 - [agon-utilities](https://github.com/lennart-benschop/agon-utilities) - MOS utilities for Agon: copy, view, editor...
+- [HEXLOAD utility](https://github.com/envenomator/agon-hexload) - Utility for the Agon platform, to load Intel HEX files over one of its serial ports.
 - [Sprite editor](https://github.com/robogeek42/agon_sped) - sped.bas is a sprite editor for the Agon series of retro computers.
 
 ## License
