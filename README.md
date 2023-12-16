@@ -36,7 +36,10 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [Vezza](https://sijnstra.itch.io/vezza-agon) - Vezza is a tool for running Infocom compatible (Z-machine) text adventure games.
 
 ## Graphical demos
+- [AgonAsciiWars](https://github.com/LuzrBum/Agon-Projects/tree/main/ASW) - Star ASCIImation Wars for Agon.
 - [Bad Apple](https://movievertigo.github.io/downloads/agonlight/badapple/) - An Agon Light port of Bad Apple. ([Preview on YouTube](https://www.youtube.com/watch?v=VRQPftkXF1Q))
+- [Elite](https://github.com/xianpinder/Agon/tree/main/Elite) - Elite demo by the original developer of Elite - The New Kind.
+- [Lemmings](https://github.com/mikedailly/Agon) - Lemmings educational demo.
 
 ## Internet
 - [Snail](https://github.com/nihirash/Agon-MOS-Tools/tree/main/esp8266/snail) - Fast gopher browser for Agon Light (and Agon Light 2).
