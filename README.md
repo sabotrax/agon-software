@@ -54,7 +54,8 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [Agon Forth](https://github.com/lennart-benschop/agon-forth) - Forth for Agon computer.
 - [BBC Basic](https://github.com/breakintoprogram/agon-bbc-basic) - Official AGON QUARK Firmware: BASIC Interpreter.
 - [BBC Basic ADL](https://github.com/breakintoprogram/agon-bbc-basic-adl) - Official AGON QUARK Firmware: BASIC Interpreter (ADL version).
-
+- [Z88DK](https://github.com/z88dk/z88dk) - The Development Kit for Z80 Computers.
+ 
 ## Utilities
 - [agon_64cfontloader](https://github.com/eightbitswide/agon_64cfontloader) - Load .64c fonts on the Agon in BBC BASIC.
 - [agon-flash](https://github.com/envenomator/agon-flash) - Agon firmware update utility.
