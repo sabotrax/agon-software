@@ -4,6 +4,7 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 
 ## Table of contents
 
+- [Documentation](#documentation)
 - [Editors](#editors)
 - [Emulators](#emulators)
 - [Firmware](#firmware)
@@ -14,6 +15,9 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [Programming languages](#programming-languages)
 - [Utilities](#utilities)
 ---
+## Documentation
+- [Agon Light Wiki](https://github.com/breakintoprogram/agon-docs/wiki) - Official source for all documentation regarding the Agon Quark firmware and any third-party software development.
+
 ## Editors
 - [AED: Another Text Editor](https://github.com/avalonbits/aed) - Another Text Editor.
 - [nano](https://github.com/lennart-benschop/agon-utilities#nano) - Editor with nano-style key bindings.
@@ -25,7 +29,8 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 ## Firmware
 - [Agon MOS](https://github.com/breakintoprogram/agon-mos) - Official AGON QUARK Firmware: eZ80 MOS.
 - [Agon VDP](https://github.com/breakintoprogram/agon-vdp) - Official AGON QUARK Firmware: ESP32 VDP.
-
+- [Agon VDP (Console8)](https://github.com/AgonConsole8/agon-vdp) - Official Firmware for the Agon Console8: ESP32 VDP.
+ 
 ## Games
 - [AgonLight Game Library](https://github.com/eightbitswide/AgonLight-Game-Library) - Games for the BBC Micro and Electron converted for AgonLight.
 - [Draegerman](https://github.com/8BitVino/draegerman) - Draegerman for Agon Light.
@@ -59,8 +64,8 @@ This is a list of Software for the Agon Light modern 8-bit computers.
  
 ## Utilities
 - [agon_64cfontloader](https://github.com/eightbitswide/agon_64cfontloader) - Load .64c fonts on the Agon in BBC BASIC.
-- [agon-flash](https://github.com/envenomator/agon-flash) - Agon firmware update utility.
-- [agon-utilities](https://github.com/lennart-benschop/agon-utilities) - MOS utilities for Agon: copy, view, editor...
+- [Agon Flash](https://github.com/envenomator/agon-flash) - Agon firmware update utility.
+- [Agon Utilities](https://github.com/lennart-benschop/agon-utilities) - MOS utilities for Agon: copy, view, editor...
 - [Agon Light2 Basic Auto Loading Screen](https://pastebin.com/YjT4rGes) - BBC Basic Auto Start Screen.
 - [HEXLOAD utility](https://github.com/envenomator/agon-hexload) - Utility for the Agon platform, to load Intel HEX files over one of its serial ports.
 - [Sprite editor](https://github.com/robogeek42/agon_sped) - sped.bas is a sprite editor for the Agon series of retro computers.
