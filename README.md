@@ -39,6 +39,7 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [Realm](https://github.com/NicholasPratt/Realm) - An adventure game for Agon Light.
 - [Rokky](https://github.com/nihirash/Agon-rokky) - Dungeons and Diamonds game for Agon Light.
 - [Sokoban](https://github.com/envenomator/agon-sokoban) - A custom port of the Sokoban game for the Agon platform.
+- [TINACOT](https://github.com/tonedef71/agon-tinacot) - An original game inspired by tower defense games and Tetris.
 - [Vezza](https://sijnstra.itch.io/vezza-agon) - Vezza is a tool for running Infocom compatible (Z-machine) text adventure games.
 
 ## Graphical demos
