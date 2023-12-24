@@ -34,6 +34,7 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 ## Games
 - [AgonLight Game Library](https://github.com/eightbitswide/AgonLight-Game-Library) - Games for the BBC Micro and Electron converted for AgonLight.
 - [Draegerman](https://github.com/8BitVino/draegerman) - Draegerman for Agon Light.
+- [Drug Wars](https://github.com/oldpatientsea/DRUG-WARS-for-the-Agon-Light) - An adaption of the DOS version of the game, converted to BBC BASIC (Z80) for the Agon Light.
 - [Game of Life](https://github.com/craiglp/agon-life) - Conway's Game of Life for the Agon Light.
 - [Haunted_House](https://github.com/lovejoy777/Haunted_House) - Agon Light2 Text Adventure Game, Written in BBC BASIC.
 - [Realm](https://github.com/NicholasPratt/Realm) - An adventure game for Agon Light.
