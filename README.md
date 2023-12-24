@@ -36,7 +36,8 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [Draegerman](https://github.com/8BitVino/draegerman) - Draegerman for Agon Light.
 - [Drug Wars](https://github.com/oldpatientsea/DRUG-WARS-for-the-Agon-Light) - An adaption of the DOS version of the game, converted to BBC BASIC (Z80) for the Agon Light.
 - [Game of Life](https://github.com/craiglp/agon-life) - Conway's Game of Life for the Agon Light.
-- [Haunted_House](https://github.com/lovejoy777/Haunted_House) - Agon Light2 Text Adventure Game, Written in BBC BASIC.
+- [Haunted_House](https://github.com/lovejoy777/Haunted_House) - Agon Light2 Text Adventure Game, written in BBC BASIC.
+- [Pitman](https://github.com/xianpinder/Agon/tree/main/Pitman) - Port of Pitman, written in BBC BASIC.
 - [Realm](https://github.com/NicholasPratt/Realm) - An adventure game for Agon Light.
 - [Rokky](https://github.com/nihirash/Agon-rokky) - Dungeons and Diamonds game for Agon Light.
 - [Sokoban](https://github.com/envenomator/agon-sokoban) - A custom port of the Sokoban game for the Agon platform.
