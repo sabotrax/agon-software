@@ -11,6 +11,7 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [Games](#games)
 - [Graphical demos](#graphical-demos)
 - [Internet](#internet)
+- [Libraries](#libraries)
 - [Operating systems](#operating-systems)
 - [Programming languages](#programming-languages)
 - [Utilities](#utilities)
@@ -27,6 +28,7 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [Fab Agon Emulator](https://github.com/tomm/fab-agon-emulator) - Agon Light, Agon Light 2, Agon Console8 Emulator for Linux, Windows, any system with libSDL.
 
 ## Firmware
+- [AgonElectron](https://github.com/S0urceror/AgonElectron/tree/main) - Binary distribution of Agon Electron HAL and OS plus firmware switcher.
 - [Agon MOS](https://github.com/breakintoprogram/agon-mos) - Official AGON QUARK Firmware: eZ80 MOS.
 - [Agon VDP](https://github.com/breakintoprogram/agon-vdp) - Official AGON QUARK Firmware: ESP32 VDP.
 - [Agon VDP (Console8)](https://github.com/AgonConsole8/agon-vdp) - Official Firmware for the Agon Console8: ESP32 VDP.
@@ -54,6 +56,10 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 ## Internet
 - [Snail](https://github.com/nihirash/Agon-MOS-Tools/tree/main/esp8266/snail) - Fast gopher browser for Agon Light (and Agon Light 2).
 
+## Libraries
+- [AgonLight Code Library](https://github.com/eightbitswide/agonlight-code-library) - A collection of useful subroutines.
+- [UART Basic](https://github.com/richardturnnidge/uart_basic) - Sending UART data from BBC Basic.
+
 ## Operating systems
 - [CP/M 2.2 for Agon Light](https://github.com/nihirash/Agon-CPM2.2) - CP/M 2.2 port for Agon Light that didn't require custom firmware. Use your Agon fully and have access to CP/M system.
 
@@ -68,6 +74,7 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 ## Utilities
 - [agon_64cfontloader](https://github.com/eightbitswide/agon_64cfontloader) - Load .64c fonts on the Agon in BBC BASIC.
 - [Agon Flash](https://github.com/envenomator/agon-flash) - Agon firmware update utility.
+- [Agon Light 2 Serial Printer](https://github.com/tdg8934/Agon-Light-2-Serial-Printer) - Mini Thermal Receipt Printer (Serial RxD).
 - [Agon Utilities](https://github.com/lennart-benschop/agon-utilities) - MOS utilities for Agon: copy, view, editor...
 - [Agon Light2 Basic Auto Loading Screen](https://pastebin.com/YjT4rGes) - BBC Basic Auto Start Screen.
 - [HEXLOAD utility](https://github.com/envenomator/agon-hexload) - Utility for the Agon platform, to load Intel HEX files over one of its serial ports.
