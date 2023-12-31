@@ -29,6 +29,7 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 
 ## Firmware
 - [AgonElectron](https://github.com/S0urceror/AgonElectron/tree/main) - Binary distribution of Agon Electron HAL and OS plus firmware switcher.
+- [Agon Electron HAL](https://github.com/S0urceror/AgonElectronHAL) - The Agon Electron Hardware Abstraction Layer.
 - [Agon MOS](https://github.com/breakintoprogram/agon-mos) - Official AGON QUARK Firmware: eZ80 MOS.
 - [Agon VDP](https://github.com/breakintoprogram/agon-vdp) - Official AGON QUARK Firmware: ESP32 VDP.
 - [Agon VDP (Console8)](https://github.com/AgonConsole8/agon-vdp) - Official Firmware for the Agon Console8: ESP32 VDP.
