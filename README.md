@@ -60,11 +60,13 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [Snail](https://github.com/nihirash/Agon-MOS-Tools/tree/main/esp8266/snail) - Fast gopher browser for Agon Light (and Agon Light 2).
 
 ## Libraries
+- [Agon Basic](https://github.com/robogeek42/agon_basic_mycode) - Code repo for BBC Basic programs written for the Agon Light and Console8.
 - [AgonLight Code Library](https://github.com/eightbitswide/agonlight-code-library) - A collection of useful subroutines.
 - [UART Basic](https://github.com/richardturnnidge/uart_basic) - Sending UART data from BBC Basic.
 
 ## Operating systems
 - [CP/M 2.2 for Agon Light](https://github.com/nihirash/Agon-CPM2.2) - CP/M 2.2 port for Agon Light that didn't require custom firmware. Use your Agon fully and have access to CP/M system.
+- [Popup MOS](https://github.com/tomm/popup-mos) -  A batteries-included SDCard template for Agon Light / Console8.
 
 ## Programming languages
 - [AgDev](https://github.com/pcawte/AgDev) - Port to Agon Light of TI-84-CE C/C++ Toolchain which uses LLVM and generates eZ80 ADL code.
