@@ -31,6 +31,7 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [AgonElectron](https://github.com/S0urceror/AgonElectron/tree/main) - Binary distribution of Agon Electron HAL and OS plus firmware switcher.
 - [Agon Electron HAL](https://github.com/S0urceror/AgonElectronHAL) - The Agon Electron Hardware Abstraction Layer.
 - [Agon MOS](https://github.com/breakintoprogram/agon-mos) - Official AGON QUARK Firmware: eZ80 MOS.
+- [Agon MOS (Console8)](https://github.com/AgonConsole8/agon-mos) - Official AGON QUARK Firmware for Console8: eZ80 MOS.
 - [Agon VDP](https://github.com/breakintoprogram/agon-vdp) - Official AGON QUARK Firmware: ESP32 VDP.
 - [Agon VDP (Console8)](https://github.com/AgonConsole8/agon-vdp) - Official Firmware for the Agon Console8: ESP32 VDP.
  
@@ -48,6 +49,7 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [Space Birds](https://github.com/james7780/Agon_SpaceBirds) - A simple game written in C for the Agon Light retro computer.
 - [TINACOT](https://github.com/tonedef71/agon-tinacot) - An original game inspired by tower defense games and Tetris.
 - [Vezza](https://sijnstra.itch.io/vezza-agon) - Vezza is a tool for running Infocom compatible (Z-machine) text adventure games.
+- [Wizard's Castle](https://github.com/thrazen/AgonLight) - The Wizard's castle modded for BBC Basic on the Agon Light.
 
 ## Graphical demos
 - [AgonAsciiWars](https://github.com/LuzrBum/Agon-Projects/tree/main/ASW) - Star ASCIImation Wars for Agon.
