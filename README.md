@@ -18,7 +18,7 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 ---
 ## Documentation
 - [Agon Light Wiki](https://github.com/breakintoprogram/agon-docs/wiki) - Official source for all documentation regarding the Agon Quark firmware and any third-party software development.
-- [Agon Console8 Wiki](https://agonconsole8.github.io/agon-docs/) - Version of the above wiki that contains information on the Console8 firmware. May be more (or less) up-to-date at any given time.
+- [Agon Console8 Wiki](https://agonconsole8.github.io/agon-docs/) - Version of the above wiki that contains information on the Console8 firmware and its unique features.
 
 ## Editors
 - [AED: Another Text Editor](https://github.com/avalonbits/aed) - Another Text Editor.
