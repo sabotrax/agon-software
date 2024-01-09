@@ -69,6 +69,8 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 ## Operating systems
 - [CP/M 2.2 for Agon Light](https://github.com/nihirash/Agon-CPM2.2) - CP/M 2.2 port for Agon Light that didn't require custom firmware. Use your Agon fully and have access to CP/M system.
 - [Popup MOS](https://github.com/tomm/popup-mos) -  A batteries-included SDCard template for Agon Light / Console8.
+- [TRS-OS for Agon Light](https://github.com/sijnstra/agon-projects/tree/main/OSboot) - A bootstrap to run TRS-OS on Aglon Light under MOS. TRS-OS is an eZ80 port of the LS-DOS TRS-80 operating system. No firmware change required.
+- [Zeal-8-bit-OS for Agon Light](https://github.com/sijnstra/agon-projects/tree/main/OSbootZ) - A bootstrap to run Zeal 8-bit on the Agon Light under MOS. No firmware change required.
 
 ## Programming languages
 - [AgDev](https://github.com/pcawte/AgDev) - Port to Agon Light of TI-84-CE C/C++ Toolchain which uses LLVM and generates eZ80 ADL code.
@@ -86,6 +88,7 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [Agon Light2 Basic Auto Loading Screen](https://pastebin.com/YjT4rGes) - BBC Basic Auto Start Screen.
 - [HEXLOAD utility](https://github.com/envenomator/agon-hexload) - Utility for the Agon platform, to load Intel HEX files over one of its serial ports.
 - [Sprite editor](https://github.com/robogeek42/agon_sped) - sped.bas is a sprite editor for the Agon series of retro computers.
+- [More Agon Utilities](https://github.com/sijnstra/agon-projects/tree/main) - MOS utilities including gunzip, hexdump tools for interactive navigation of file or memory, strings to extract strings from a binary file
 
 ## License
 This list is under the [Creative Commons Attribution 4.0 International](https://github.com/sabotrax/agon-software/blob/main/LICENSE) License. Terms of the license are summarized [here](https://choosealicense.com/licenses/cc-by-4.0/).
