@@ -93,6 +93,7 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [Agon Light 2 Serial Printer](https://github.com/tdg8934/Agon-Light-2-Serial-Printer) - Mini Thermal Receipt Printer (Serial RxD).
 - [Agon Utilities](https://github.com/lennart-benschop/agon-utilities) - MOS utilities for Agon: copy, view, editor...
 - [Agon Light2 Basic Auto Loading Screen](https://pastebin.com/YjT4rGes) - BBC Basic Auto Start Screen.
+- [btmg](https://github.com/8BitVino/btmg) - (B)itmap (T)ile (M)ap (G)enerator. A map generator for AgonLight/Console8 which uses bitmap (16x16) images to create a 14x14 playfield.
 - [HEXLOAD utility](https://github.com/envenomator/agon-hexload) - Utility for the Agon platform, to load Intel HEX files over one of its serial ports.
 - [Sprite editor](https://github.com/robogeek42/agon_sped) - sped.bas is a sprite editor for the Agon series of retro computers.
 - [More Agon Utilities](https://github.com/sijnstra/agon-projects/tree/main) - MOS utilities including gunzip, hexdump tools for interactive navigation of file or memory, strings to extract strings from a binary file
