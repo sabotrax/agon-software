@@ -1,6 +1,6 @@
 # Agon Software
 
-This is a list of Software for the Agon Light modern 8-bit computers.
+A list of Software for the Agon Light modern 8-bit computers.
 
 ## Table of contents
 
