@@ -11,7 +11,7 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 - [Games](#games)
 - [Graphical demos](#graphical-demos)
 - [Internet](#internet)
-- [Libraries](#libraries)
+- [Libraries and sample code](#libraries-and-sample-code)
 - [Operating systems](#operating-systems)
 - [Programming languages](#programming-languages)
 - [Sound](#sound)
@@ -65,9 +65,11 @@ This is a list of Software for the Agon Light modern 8-bit computers.
 ## Internet
 - [Snail](https://github.com/nihirash/Agon-MOS-Tools/tree/main/esp8266/snail) - Fast gopher browser for Agon Light (and Agon Light 2).
 
-## Libraries
+## Libraries and sample code
 - [Agon Basic](https://github.com/robogeek42/agon_basic_mycode) - Code repo for BBC Basic programs written for the Agon Light and Console8.
 - [AgonLight Code Library](https://github.com/eightbitswide/agonlight-code-library) - A collection of useful subroutines.
+- [Agon Light 2 C Template](https://github.com/ncot-tech/agon-template) - A template for the Agon Light C compiler toolchain.
+- [Envenomator's Agon code collection](https://github.com/envenomator/Agon) - Collection of code, docs and libraries for the Agon platform.
 - [UART Basic](https://github.com/richardturnnidge/uart_basic) - Sending UART data from BBC Basic.
 
 ## Operating systems
