@@ -41,6 +41,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [AgonLight Game Library](https://github.com/eightbitswide/AgonLight-Game-Library) - Games for the BBC Micro and Electron converted for AgonLight.
 - [Agon Light Invaders](https://github.com/pgregory/agon-light-invaders) - Invaders for the Agon Light.
 - [Dans la prison hantée](https://mokona78.itch.io/dans-la-prison-hante) - This prison is haunted. But this prison also hides a treasure. And finding treasures is your job.
+- [Diamond Quest](https://github.com/richardturnnidge/diamond) - eZ80 game on AgonLight. A simple game, built purely as a goal to learn z80 assembly routines on the Agon Light.
 - [Draegerman](https://github.com/8BitVino/draegerman) - Draegerman for Agon Light.
 - [Drug Wars](https://github.com/oldpatientsea/DRUG-WARS-for-the-Agon-Light) - An adaption of the DOS version of the game, converted to BBC BASIC (Z80) for the Agon Light.
 - [Game of Life](https://github.com/craiglp/agon-life) - Conway's Game of Life for the Agon Light.
