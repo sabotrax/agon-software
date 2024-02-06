@@ -10,6 +10,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Firmware](#firmware)
 - [Games](#games)
 - [Graphical demos](#graphical-demos)
+- [Graphics](#graphics)
 - [Internet](#internet)
 - [Libraries and sample code](#libraries-and-sample-code)
 - [Operating systems](#operating-systems)
@@ -64,6 +65,11 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Lemmings](https://github.com/mikedailly/Agon) - Lemmings educational demo.
 - [Mandelbrot generator](https://movievertigo.github.io/downloads/agonlight/mandelbrot/) - A fast and interactive Mandelbrot generator. ([Preview on YouTube](https://www.youtube.com/watch?v=isXrc8DOp4U))
 
+## Graphics
+- [ANSIplay](https://github.com/sijnstra/agon-projects/tree/main/ANSIplay) - MOS utility to play .ANS ANSI art files.
+- [btmg](https://github.com/8BitVino/btmg) - (B)itmap (T)ile (M)ap (G)enerator. A map generator for AgonLight/Console8 which uses bitmap (16x16) images to create a 14x14 playfield.
+- [Sprite editor](https://github.com/robogeek42/agon_sped) - sped.bas is a sprite editor for the Agon series of retro computers.
+
 ## Internet
 - [Snail](https://github.com/nihirash/Agon-MOS-Tools/tree/main/esp8266/snail) - Fast gopher browser for Agon Light (and Agon Light 2).
 
@@ -98,10 +104,8 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Agon Light 2 Serial Printer](https://github.com/tdg8934/Agon-Light-2-Serial-Printer) - Mini Thermal Receipt Printer (Serial RxD).
 - [Agon Utilities](https://github.com/lennart-benschop/agon-utilities) - MOS utilities for Agon: copy, view, editor...
 - [Agon Light2 Basic Auto Loading Screen](https://pastebin.com/YjT4rGes) - BBC Basic Auto Start Screen.
-- [btmg](https://github.com/8BitVino/btmg) - (B)itmap (T)ile (M)ap (G)enerator. A map generator for AgonLight/Console8 which uses bitmap (16x16) images to create a 14x14 playfield.
 - [calc24](https://github.com/sijnstra/agon-projects/tree/main/calc24) - 24 bit integer calculations in both hex and decimal.
 - [HEXLOAD utility](https://github.com/envenomator/agon-hexload) - Utility for the Agon platform, to load Intel HEX files over one of its serial ports.
-- [Sprite editor](https://github.com/robogeek42/agon_sped) - sped.bas is a sprite editor for the Agon series of retro computers.
 - [More Agon Utilities](https://github.com/sijnstra/agon-projects/tree/main) - MOS utilities including gunzip, hexdump tools for interactive navigation of file or memory, strings to extract strings from a binary file
 
 ## License
