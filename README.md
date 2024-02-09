@@ -15,6 +15,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Libraries and sample code](#libraries-and-sample-code)
 - [Operating systems](#operating-systems)
 - [Programming languages](#programming-languages)
+- [Simulation](#simulation)
 - [Sound](#sound)
 - [Utilities](#utilities)
 ---
@@ -96,15 +97,18 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [BBC Basic ADL](https://github.com/breakintoprogram/agon-bbc-basic-adl) - Official AGON QUARK Firmware: BASIC Interpreter (ADL version).
 - [Z88DK](https://github.com/z88dk/z88dk) - The Development Kit for Z80 Computers.
 
+## Simulation
+- [Mini-SPS](https://github.com/TKRoth/Mini-SPS) - PLC simulation (German).
+
 ## Sound
 - [Agon MOD](https://github.com/HeathenUK/agon_mod) - Agon .MOD tracker.
 
 ## Utilities
 - [agon_64cfontloader](https://github.com/eightbitswide/agon_64cfontloader) - Load .64c fonts on the Agon in BBC BASIC.
+- [Agon Basic Header](https://github.com/The-8bit-Noob/AGON_BASIC_HEADER) - Agon Light 2 Basic Header.
 - [Agon Flash](https://github.com/envenomator/agon-flash) - Agon firmware update utility.
 - [Agon Light 2 Serial Printer](https://github.com/tdg8934/Agon-Light-2-Serial-Printer) - Mini Thermal Receipt Printer (Serial RxD).
 - [Agon Utilities](https://github.com/lennart-benschop/agon-utilities) - MOS utilities for Agon: copy, view, editor...
-- [Agon Light2 Basic Auto Loading Screen](https://pastebin.com/YjT4rGes) - BBC Basic Auto Start Screen.
 - [calc24](https://github.com/sijnstra/agon-projects/tree/main/calc24) - 24 bit integer calculations in both hex and decimal.
 - [HEXLOAD utility](https://github.com/envenomator/agon-hexload) - Utility for the Agon platform, to load Intel HEX files over one of its serial ports.
 - [More Agon Utilities](https://github.com/sijnstra/agon-projects/tree/main) - MOS utilities including gunzip, hexdump tools for interactive navigation of file or memory, strings to extract strings from a binary file
