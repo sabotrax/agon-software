@@ -70,6 +70,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 ## Graphics
 - [ANSIplay](https://github.com/sijnstra/agon-projects/tree/main/ANSIplay) - MOS utility to play .ANS ANSI art files.
 - [btmg](https://github.com/8BitVino/btmg) - (B)itmap (T)ile (M)ap (G)enerator. A map generator for AgonLight/Console8 which uses bitmap (16x16) images to create a 14x14 playfield.
+- [MapMaker](https://github.com/8BitVino/mapmaker) - Build a map for your own BASIC game using MapMaker.
 - [Sprite editor](https://github.com/robogeek42/agon_sped) - sped.bas is a sprite editor for the Agon series of retro computers.
 
 ## Internet
@@ -95,6 +96,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Agon Forth](https://github.com/lennart-benschop/agon-forth) - Forth for Agon computer.
 - [BBC Basic](https://github.com/breakintoprogram/agon-bbc-basic) - Official AGON QUARK Firmware: BASIC Interpreter.
 - [BBC Basic ADL](https://github.com/breakintoprogram/agon-bbc-basic-adl) - Official AGON QUARK Firmware: BASIC Interpreter (ADL version).
+- [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/) - TRSE is a complete suite (IDE, compiler, programming language, resource editor) intended for developing games/demos for 8 / 16-bit line of computers.
 - [Z88DK](https://github.com/z88dk/z88dk) - The Development Kit for Z80 Computers.
 
 ## Simulation
