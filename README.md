@@ -52,6 +52,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Pitman](https://github.com/xianpinder/Agon/tree/main/Pitman) - Port of Pitman, written in BBC BASIC.
 - [Realm](https://github.com/NicholasPratt/Realm) - An adventure game for Agon Light.
 - [Rokky](https://github.com/nihirash/Agon-rokky) - Dungeons and Diamonds game for Agon Light.
+- [Sargon Chess](https://github.com/sijnstra/agon-projects/tree/main/sargon) - Port of the award-winning Sargon Chess program by Dan and Kathe Spracklen from 1978.
 - [Sokoban](https://github.com/envenomator/agon-sokoban) - A custom port of the Sokoban game for the Agon platform.
 - [Space Birds](https://github.com/james7780/Agon_SpaceBirds) - A simple game written in C for the Agon Light retro computer.
 - [TINACOT](https://github.com/tonedef71/agon-tinacot) - An original game inspired by tower defense games and Tetris.
