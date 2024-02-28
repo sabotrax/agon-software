@@ -20,8 +20,9 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Utilities](#utilities)
 ---
 ## Documentation
-- [Agon Light Wiki](https://github.com/breakintoprogram/agon-docs/wiki) - Official source for all documentation regarding the Agon Quark firmware and any third-party software development.
+- [AgonDoc](https://github.com/mbernardi1961/AgonDoc) - Newbie FAQ for AgonLight2.
 - [Agon Console8 Wiki](https://agonconsole8.github.io/agon-docs/) - Version of the above wiki that contains information on the Console8 firmware and its unique features.
+- [Agon Light Wiki](https://github.com/breakintoprogram/agon-docs/wiki) - Official source for all documentation regarding the Agon Quark firmware and any third-party software development.
 
 ## Editors
 - [AED: Another Text Editor](https://github.com/avalonbits/aed) - Another Text Editor.
@@ -111,6 +112,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [agon_64cfontloader](https://github.com/eightbitswide/agon_64cfontloader) - Load .64c fonts on the Agon in BBC BASIC.
 - [Agon Basic Header](https://github.com/The-8bit-Noob/AGON_BASIC_HEADER) - Agon Light 2 Basic Header.
 - [Agon Flash](https://github.com/envenomator/agon-flash) - Agon firmware update utility.
+- [Agon Hex](https://github.com/HeathenUK/agon_hex) - Agon hex editor.
 - [Agon Light 2 Serial Printer](https://github.com/tdg8934/Agon-Light-2-Serial-Printer) - Mini Thermal Receipt Printer (Serial RxD).
 - [Agon Utilities](https://github.com/lennart-benschop/agon-utilities) - MOS utilities for Agon: copy, view, editor...
 - [calc24](https://github.com/sijnstra/agon-projects/tree/main/calc24) - 24 bit integer calculations in both hex and decimal.
