@@ -115,6 +115,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Agon Hex](https://github.com/HeathenUK/agon_hex) - Agon hex editor.
 - [Agon Light 2 Serial Printer](https://github.com/tdg8934/Agon-Light-2-Serial-Printer) - Mini Thermal Receipt Printer (Serial RxD).
 - [Agon Utilities](https://github.com/lennart-benschop/agon-utilities) - MOS utilities for Agon: copy, view, editor...
+- [Agon Utils](https://github.com/vascocosta/agon-utils) - Utilities for the Agon Light computer.
 - [calc24](https://github.com/sijnstra/agon-projects/tree/main/calc24) - 24 bit integer calculations in both hex and decimal.
 - [Console8 Recover](https://github.com/envenomator/console8-recover) - Console8 MOS recover utility.
 - [HEXLOAD utility](https://github.com/envenomator/agon-hexload) - Utility for the Agon platform, to load Intel HEX files over one of its serial ports.
