@@ -111,6 +111,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 ## Utilities
 - [agon_64cfontloader](https://github.com/eightbitswide/agon_64cfontloader) - Load .64c fonts on the Agon in BBC BASIC.
 - [Agon Basic Header](https://github.com/The-8bit-Noob/AGON_BASIC_HEADER) - Agon Light 2 Basic Header.
+- [Agon Bootlogo](https://github.com/sijnstra/agon-projects/tree/main/bootlogo) - Assembler MOSlet bootlogo of the Basic Header.
 - [Agon Flash](https://github.com/envenomator/agon-flash) - Agon firmware update utility.
 - [Agon Hex](https://github.com/HeathenUK/agon_hex) - Agon hex editor.
 - [Agon Light 2 Serial Printer](https://github.com/tdg8934/Agon-Light-2-Serial-Printer) - Mini Thermal Receipt Printer (Serial RxD).
