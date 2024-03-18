@@ -4,6 +4,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 
 ## Table of contents
 
+- [Distributions](#distributions)
 - [Documentation](#documentation)
 - [Editors](#editors)
 - [Emulators](#emulators)
@@ -19,6 +20,10 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Sound](#sound)
 - [Utilities](#utilities)
 ---
+## Distributions
+- [Agon Mite](https://agonmite.gluonspace.com/) - Agon Mite is a software distribution for the Agon Light™ 8 bit computer.
+- [Popup MOS](https://github.com/tomm/popup-mos) -  A batteries-included SDCard template for Agon Light / Console8.
+
 ## Documentation
 - [AgonDoc](https://github.com/mbernardi1961/AgonDoc) - Newbie FAQ for AgonLight2.
 - [Agon Console8 Wiki](https://agonconsole8.github.io/agon-docs/) - Version of the above wiki that contains information on the Console8 firmware and its unique features.
@@ -51,6 +56,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Escape the Mansion](https://github.com/richardturnnidge/adventure) - Multi-room graphical adventure.
 - [Game of Life](https://github.com/craiglp/agon-life) - Conway's Game of Life for the Agon Light.
 - [Haunted_House](https://github.com/lovejoy777/Haunted_House) - Agon Light2 Text Adventure Game, written in BBC BASIC.
+- [Haunted House III](https://github.com/The-8bit-Noob/Haunted-House-III) - Haunted House Text Adventure Game for the Agon Light2.
 - [Lunar Lander](https://github.com/richardturnnidge/lunar_lander) - Lunar Lander Game.
 - [Pitman](https://github.com/xianpinder/Agon/tree/main/Pitman) - Port of Pitman, written in BBC BASIC.
 - [Realm](https://github.com/NicholasPratt/Realm) - An adventure game for Agon Light.
