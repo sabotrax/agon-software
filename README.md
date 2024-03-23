@@ -28,6 +28,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [AgonDoc](https://github.com/mbernardi1961/AgonDoc) - Newbie FAQ for AgonLight2.
 - [Agon Console8 Wiki](https://agonconsole8.github.io/agon-docs/) - Version of the above wiki that contains information on the Console8 firmware and its unique features.
 - [Agon-FAQ](https://github.com/envenomator/Agon-FAQ) - Most frequently asked questions (and answers) to using the Agon platform.
+- [AgonLight2](https://github.com/OLIMEX/AgonLight2) - Olimex's Github of their revision of the Agon Light 2.
 - [Agon Light Wiki](https://github.com/breakintoprogram/agon-docs/wiki) - Official source for all documentation regarding the Agon Quark firmware and any third-party software development.
 
 ## Editors
@@ -50,14 +51,19 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [AgonLight Game Library](https://github.com/eightbitswide/AgonLight-Game-Library) - Games for the BBC Micro and Electron converted for AgonLight.
 - [Agon Light Invaders](https://github.com/pgregory/agon-light-invaders) - Invaders for the Agon Light.
 - [Dans la prison hantée](https://mokona78.itch.io/dans-la-prison-hante) - This prison is haunted. But this prison also hides a treasure. And finding treasures is your job.
+- [Death House](https://github.com/tonedef71/agon-death-house) - A BBC BASIC v3 port of the horror interactive fiction game coded for the Commodore 64 by Mark S. Boucher.
 - [Diamond Quest](https://github.com/richardturnnidge/diamond) - eZ80 game on AgonLight. A simple game, built purely as a goal to learn z80 assembly routines on the Agon Light.
 - [Draegerman](https://github.com/8BitVino/draegerman) - Draegerman for Agon Light.
 - [Drug Wars](https://github.com/oldpatientsea/DRUG-WARS-for-the-Agon-Light) - An adaption of the DOS version of the game, converted to BBC BASIC (Z80) for the Agon Light.
 - [Escape the Mansion](https://github.com/richardturnnidge/adventure) - Multi-room graphical adventure.
+- [FSUDOKU](https://github.com/theflynn49/fsudoku) - Sudoku game app for Agon Light.
 - [Game of Life](https://github.com/craiglp/agon-life) - Conway's Game of Life for the Agon Light.
 - [Haunted_House](https://github.com/lovejoy777/Haunted_House) - Agon Light2 Text Adventure Game, written in BBC BASIC.
 - [Haunted House III](https://github.com/The-8bit-Noob/Haunted-House-III) - Haunted House Text Adventure Game for the Agon Light2.
+- [Jotto 2020](https://github.com/tonedef71/agon-jotto-2020) - Jotto 2020 is a word puzzle game that cleverly combines the game mechanics of the games, Jotto and Mastermind.
 - [Lunar Lander](https://github.com/richardturnnidge/lunar_lander) - Lunar Lander Game.
+- [NOMIS](https://github.com/tonedef71/agon-nomis) - NOMIS: a clone of the classic game SIMON for AgonLight and BBC BASIC SDL.
+- [Nova-Star](https://github.com/NicholasPratt/Nova-Star) - An original game for the Agon Light .
 - [Pitman](https://github.com/xianpinder/Agon/tree/main/Pitman) - Port of Pitman, written in BBC BASIC.
 - [Realm](https://github.com/NicholasPratt/Realm) - An adventure game for Agon Light.
 - [Rokky](https://github.com/nihirash/Agon-rokky) - Dungeons and Diamonds game for Agon Light.
