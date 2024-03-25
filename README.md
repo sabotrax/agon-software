@@ -27,7 +27,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 ## Documentation
 - [AgonDoc](https://github.com/mbernardi1961/AgonDoc) - Newbie FAQ for AgonLight2.
 - [Agon Console8 Wiki](https://agonconsole8.github.io/agon-docs/) - Version of the above wiki that contains information on the Console8 firmware and its unique features.
-- [Agon-FAQ](https://github.com/envenomator/Agon-FAQ) - Most frequently asked questions (and answers) to using the Agon platform.
+- [Agon-FAQ](https://github.com/AgonConsole8/agon-docs/blob/main/FAQ.md) - Most frequently asked questions (and answers) to using the Agon platform.
 - [AgonLight2](https://github.com/OLIMEX/AgonLight2) - Olimex's Github of their revision of the Agon Light 2.
 - [Agon Light Wiki](https://github.com/breakintoprogram/agon-docs/wiki) - Official source for all documentation regarding the Agon Quark firmware and any third-party software development.
 
