@@ -77,6 +77,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 
 ## Graphical demos
 - [AgonAsciiWars](https://github.com/LuzrBum/Agon-Projects/tree/main/ASW) - Star ASCIImation Wars for Agon.
+- [Agoniccc](https://github.com/Optimus6128/AgonSTNICCC/releases) - AtariST STNICCC animation on the Agon console8. ([Preview on YouTube](https://www.youtube.com/watch?v=GIk1dFcepE0))
 - [Agon Raytracer](https://github.com/astralaster/Agon-Raytracer) - A ray tracing engine written in C++/ASM for the TI-84 CE ported to the Agon.
 - [Bad Apple](https://movievertigo.github.io/downloads/agonlight/badapple/) - An Agon Light port of Bad Apple. ([Preview on YouTube](https://www.youtube.com/watch?v=VRQPftkXF1Q))
 - [Bubble Universe](https://movievertigo.github.io/downloads/agonlight/bubbleuniverse/) - An animated version of Bubble Universe. ([Preview on YouTube](https://www.youtube.com/watch?v=c4m5R5tDXSE))
