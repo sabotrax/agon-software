@@ -135,6 +135,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Console8 Recover](https://github.com/envenomator/console8-recover) - Console8 MOS recover utility.
 - [HEXLOAD utility](https://github.com/envenomator/agon-hexload) - Utility for the Agon platform, to load Intel HEX files over one of its serial ports.
 - [More Agon Utilities](https://github.com/sijnstra/agon-projects/tree/main) - MOS utilities including gunzip, hexdump tools for interactive navigation of file or memory, strings to extract strings from a binary file
+- [Tasks](https://github.com/vascocosta/agon-tasks) - Simple tasks/todo list program for the Agon Light™ 8-bit computer.
 
 ## License
 This list is under the [Creative Commons Attribution 4.0 International](https://github.com/sabotrax/agon-software/blob/main/LICENSE) License. Terms of the license are summarized [here](https://choosealicense.com/licenses/cc-by-4.0/).
