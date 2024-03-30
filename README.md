@@ -55,11 +55,13 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Diamond Quest](https://github.com/richardturnnidge/diamond) - eZ80 game on AgonLight. A simple game, built purely as a goal to learn z80 assembly routines on the Agon Light.
 - [Draegerman](https://github.com/8BitVino/draegerman) - Draegerman for Agon Light.
 - [Drug Wars](https://github.com/oldpatientsea/DRUG-WARS-for-the-Agon-Light) - An adaption of the DOS version of the game, converted to BBC BASIC (Z80) for the Agon Light.
+- [ELIZA](https://github.com/blufftek/agon-console8-basic/tree/main/ELIZA) - An adaptation of the first example of the ELIZA chatbot originally developed by Joseph Weizenbaum in the mid-60s.
 - [Escape the Mansion](https://github.com/richardturnnidge/adventure) - Multi-room graphical adventure.
 - [FSUDOKU](https://github.com/theflynn49/fsudoku) - Sudoku game app for Agon Light.
 - [Game of Life](https://github.com/craiglp/agon-life) - Conway's Game of Life for the Agon Light.
 - [Haunted_House](https://github.com/lovejoy777/Haunted_House) - Agon Light2 Text Adventure Game, written in BBC BASIC.
 - [Haunted House III](https://github.com/The-8bit-Noob/Haunted-House-III) - Haunted House Text Adventure Game for the Agon Light2.
+- [Haunted House IV](https://github.com/The-8bit-Noob/Haunted-House-IV) - Haunted House IV Text Adventure Game for the Agon Light2.
 - [Jotto 2020](https://github.com/tonedef71/agon-jotto-2020) - Jotto 2020 is a word puzzle game that cleverly combines the game mechanics of the games, Jotto and Mastermind.
 - [Lunar Lander](https://github.com/richardturnnidge/lunar_lander) - Lunar Lander Game.
 - [NOMIS](https://github.com/tonedef71/agon-nomis) - NOMIS: a clone of the classic game SIMON for AgonLight and BBC BASIC SDL.
