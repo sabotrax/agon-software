@@ -21,7 +21,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Utilities](#utilities)
 ---
 ## Distributions
-- [Agon Mite](https://agonmite.gluonspace.com/) - Agon Mite is a software distribution for the Agon Light™ 8 bit computer.
+- [Agon Mite](https://www.agonmite.com/) - Agon Mite is a software distribution for the Agon Light™ 8 bit computer.
 - [Popup MOS](https://github.com/tomm/popup-mos) -  A batteries-included SDCard template for Agon Light / Console8.
 
 ## Documentation
