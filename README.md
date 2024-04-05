@@ -86,6 +86,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Elite](https://github.com/xianpinder/Agon/tree/main/Elite) - Elite demo by the original developer of Elite - The New Kind.
 - [Lemmings](https://github.com/mikedailly/Agon) - Lemmings educational demo.
 - [Mandelbrot generator](https://movievertigo.github.io/downloads/agonlight/mandelbrot/) - A fast and interactive Mandelbrot generator. ([Preview on YouTube](https://www.youtube.com/watch?v=isXrc8DOp4U))
+- [Wolf](https://github.com/robogeek42/wolf) - Wolf3D demo on Agon.
 
 ## Graphics
 - [ANSIplay](https://github.com/sijnstra/agon-projects/tree/main/ANSIplay) - MOS utility to play .ANS ANSI art files.
