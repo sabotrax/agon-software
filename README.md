@@ -50,6 +50,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 ## Games
 - [AgonLight Game Library](https://github.com/eightbitswide/AgonLight-Game-Library) - Games for the BBC Micro and Electron converted for AgonLight.
 - [Agon Light Invaders](https://github.com/pgregory/agon-light-invaders) - Invaders for the Agon Light.
+- [Agon Light Text Adventures](https://github.com/The-8bit-Noob/Agon_Light_Text_Adventures) - A Collection Of Text Adventure Games Ported To The Agon Light.
 - [Dans la prison hantée](https://mokona78.itch.io/dans-la-prison-hante) - This prison is haunted. But this prison also hides a treasure. And finding treasures is your job.
 - [Death House](https://github.com/tonedef71/agon-death-house) - A BBC BASIC v3 port of the horror interactive fiction game coded for the Commodore 64 by Mark S. Boucher.
 - [Diamond Quest](https://github.com/richardturnnidge/diamond) - eZ80 game on AgonLight. A simple game, built purely as a goal to learn z80 assembly routines on the Agon Light.
@@ -59,9 +60,6 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Escape the Mansion](https://github.com/richardturnnidge/adventure) - Multi-room graphical adventure.
 - [FSUDOKU](https://github.com/theflynn49/fsudoku) - Sudoku game app for Agon Light.
 - [Game of Life](https://github.com/craiglp/agon-life) - Conway's Game of Life for the Agon Light.
-- [Haunted_House](https://github.com/lovejoy777/Haunted_House) - Agon Light2 Text Adventure Game, written in BBC BASIC.
-- [Haunted House III](https://github.com/The-8bit-Noob/Haunted-House-III) - Haunted House Text Adventure Game for the Agon Light2.
-- [Haunted House IV](https://github.com/The-8bit-Noob/Haunted-House-IV) - Haunted House IV Text Adventure Game for the Agon Light2.
 - [Jotto 2020](https://github.com/tonedef71/agon-jotto-2020) - Jotto 2020 is a word puzzle game that cleverly combines the game mechanics of the games, Jotto and Mastermind.
 - [Lunar Lander](https://github.com/richardturnnidge/lunar_lander) - Lunar Lander Game.
 - [NOMIS](https://github.com/tonedef71/agon-nomis) - NOMIS: a clone of the classic game SIMON for AgonLight and BBC BASIC SDL.
@@ -114,6 +112,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [AgDev](https://github.com/pcawte/AgDev) - Port to Agon Light of TI-84-CE C/C++ Toolchain which uses LLVM and generates eZ80 ADL code.
 - [agon-ez80asm](https://github.com/envenomator/agon-ez80asm) - ez80 assembler, running natively on the Agon platform.
 - [Agon Forth](https://github.com/lennart-benschop/agon-forth) - Forth for Agon computer.
+- [Bargo](https://github.com/vascocosta/bargo) - BASIC build system and package manager.
 - [BBC Basic](https://github.com/breakintoprogram/agon-bbc-basic) - Official AGON QUARK Firmware: BASIC Interpreter.
 - [BBC Basic ADL](https://github.com/breakintoprogram/agon-bbc-basic-adl) - Official AGON QUARK Firmware: BASIC Interpreter (ADL version).
 - [Turbo Rascal Syntax Error](https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/) - TRSE is a complete suite (IDE, compiler, programming language, resource editor) intended for developing games/demos for 8 / 16-bit line of computers.
