@@ -105,6 +105,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 
 ## Operating systems
 - [CP/M 2.2 for Agon Light](https://github.com/nihirash/Agon-CPM2.2) - CP/M 2.2 port for Agon Light that didn't require custom firmware. Use your Agon fully and have access to CP/M system.
+- [CP/M 2.2 for Agon Light (more disk images)](https://github.com/julian-rose/Agon-CPM2.2/tree/playpen) - Fork of Nihirash's CP/M 2.2 port for Agon Light with extra disk images.
 - [TRS-OS for Agon Light](https://github.com/sijnstra/agon-projects/tree/main/OSboot) - A bootstrap to run TRS-OS on Agon Light under MOS. TRS-OS is an eZ80 port of the LS-DOS TRS-80 operating system. No firmware change required.
 - [Zeal-8-bit-OS for Agon Light](https://github.com/sijnstra/agon-projects/tree/main/OSbootZ) - A bootstrap to run Zeal 8-bit on the Agon Light under MOS. No firmware change required.
 
