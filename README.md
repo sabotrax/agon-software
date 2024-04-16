@@ -62,7 +62,8 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Jotto 2020](https://github.com/tonedef71/agon-jotto-2020) - Jotto 2020 is a word puzzle game that cleverly combines the game mechanics of the games, Jotto and Mastermind.
 - [Lunar Lander](https://github.com/richardturnnidge/lunar_lander) - Lunar Lander Game.
 - [NOMIS](https://github.com/tonedef71/agon-nomis) - NOMIS: a clone of the classic game SIMON for AgonLight and BBC BASIC SDL.
-- [Nova-Star](https://github.com/NicholasPratt/Nova-Star) - An original game for the Agon Light .
+- [Nova-Star](https://github.com/NicholasPratt/Nova-Star) - An original game for the Agon Light.
+- [Painter](https://github.com/robogeek42/painter) - Painter game.
 - [Pitman](https://github.com/xianpinder/Agon/tree/main/Pitman) - Port of Pitman, written in BBC BASIC.
 - [Realm](https://github.com/NicholasPratt/Realm) - An adventure game for Agon Light.
 - [Rokky](https://github.com/nihirash/Agon-rokky) - Dungeons and Diamonds game for Agon Light.
