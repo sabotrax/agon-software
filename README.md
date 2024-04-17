@@ -85,6 +85,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Lemmings](https://github.com/mikedailly/Agon) - Lemmings educational demo.
 - [Mandelbrot generator](https://movievertigo.github.io/downloads/agonlight/mandelbrot/) - A fast and interactive Mandelbrot generator. ([Preview on YouTube](https://www.youtube.com/watch?v=isXrc8DOp4U))
 - [Wolf](https://github.com/robogeek42/wolf) - Wolf3D demo on Agon.
+- [Z80 Plasma Demo](https://github.com/jblang/z80demos) - Graphics demos for Z80-based computers.
 
 ## Graphics
 - [ANSIplay](https://github.com/sijnstra/agon-projects/tree/main/ANSIplay) - MOS utility to play .ANS ANSI art files.
@@ -134,6 +135,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Agon Light 2 Serial Printer](https://github.com/tdg8934/Agon-Light-2-Serial-Printer) - Mini Thermal Receipt Printer (Serial RxD).
 - [Agon Utilities](https://github.com/lennart-benschop/agon-utilities) - MOS utilities for Agon: copy, view, editor...
 - [Agon Utils](https://github.com/vascocosta/agon-utils) - Utilities for the Agon Light computer.
+- [Agon VDP installer](https://envenomator.github.io/) - Web installer for VDP binaries for the Agon platform.
 - [calc24](https://github.com/sijnstra/agon-projects/tree/main/calc24) - 24 bit integer calculations in both hex and decimal.
 - [Console8 Recover](https://github.com/envenomator/console8-recover) - Console8 MOS recover utility.
 - [HEXLOAD utility](https://github.com/envenomator/agon-hexload) - Utility for the Agon platform, to load Intel HEX files over one of its serial ports.
