@@ -51,7 +51,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Agon Light Invaders](https://github.com/pgregory/agon-light-invaders) - Invaders for the Agon Light.
 - [Agon Light Text Adventures](https://github.com/The-8bit-Noob/Agon_Light_Text_Adventures) - A Collection Of Text Adventure Games Ported To The Agon Light.
 - [Dans la prison hantée](https://mokona78.itch.io/dans-la-prison-hante) - This prison is haunted. But this prison also hides a treasure. And finding treasures is your job.
-- [Death House](https://github.com/tonedef71/agon-death-house) - A BBC BASIC v3 port of the horror interactive fiction game coded for the Commodore 64 by Mark S. Boucher.
+- [Death House](https://github.com/tonedef71/agon-death-house) - A BBC BASIC v3 port of the horror interactive fiction game coded for the Commodore 64 by Mark S. Boucher. ([Preview on GitHub](https://github.com/tonedef71/agon-death-house?tab=readme-ov-file#demo-playthrough))
 - [Diamond Quest](https://github.com/richardturnnidge/diamond) - eZ80 game on AgonLight. A simple game, built purely as a goal to learn z80 assembly routines on the Agon Light.
 - [Draegerman](https://github.com/8BitVino/draegerman) - Draegerman for Agon Light.
 - [Drug Wars](https://github.com/oldpatientsea/DRUG-WARS-for-the-Agon-Light) - An adaption of the DOS version of the game, converted to BBC BASIC (Z80) for the Agon Light.
@@ -59,19 +59,20 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Escape the Mansion](https://github.com/richardturnnidge/adventure) - Multi-room graphical adventure.
 - [FSUDOKU](https://github.com/theflynn49/fsudoku) - Sudoku game app for Agon Light.
 - [Game of Life](https://github.com/craiglp/agon-life) - Conway's Game of Life for the Agon Light.
-- [Jotto 2020](https://github.com/tonedef71/agon-jotto-2020) - Jotto 2020 is a word puzzle game that cleverly combines the game mechanics of the games, Jotto and Mastermind.
+- [Jotto 2020](https://github.com/tonedef71/agon-jotto-2020) - Jotto 2020 is a word puzzle game that cleverly combines the game mechanics of the games, Jotto and Mastermind. ([Preview on GitHub](https://github.com/tonedef71/agon-jotto-2020?tab=readme-ov-file#demo-playthrough))
 - [Lunar Lander](https://github.com/richardturnnidge/lunar_lander) - Lunar Lander Game.
-- [NOMIS](https://github.com/tonedef71/agon-nomis) - NOMIS: a clone of the classic game SIMON for AgonLight and BBC BASIC SDL.
+- [NOMIS](https://github.com/tonedef71/agon-nomis) - A clone of the classic game SIMON for AgonLight and BBC BASIC SDL. ([Preview on GitHub](https://github.com/tonedef71/agon-nomis?tab=readme-ov-file#demo-playthrough))
 - [Nova-Star](https://github.com/NicholasPratt/Nova-Star) - An original game for the Agon Light.
 - [Painter](https://github.com/robogeek42/painter) - Painter game.
 - [Pitman](https://github.com/xianpinder/Agon/tree/main/Pitman) - Port of Pitman, written in BBC BASIC.
 - [Realm](https://github.com/NicholasPratt/Realm) - An adventure game for Agon Light.
 - [Rokky](https://github.com/nihirash/Agon-rokky) - Dungeons and Diamonds game for Agon Light.
 - [Sargon Chess](https://github.com/sijnstra/agon-projects/tree/main/sargon) - Port of the award-winning Sargon Chess program by Dan and Kathe Spracklen from 1978.
+- [Snac-Snake](https://github.com/tonedef71/agon-snac-snake) - A nostalgic variant of the classic SNAKE game written in BBC BASIC v3. ([Preview on GitHub](https://github.com/tonedef71/agon-snac-snake?tab=readme-ov-file#demo-playthrough))
 - [Sokoban](https://github.com/envenomator/agon-sokoban) - A custom port of the Sokoban game for the Agon platform.
 - [Space Birds](https://github.com/james7780/Agon_SpaceBirds) - A simple game written in C for the Agon Light retro computer.
 - [The Valley](https://github.com/james7780/The-Valley) - Agon Light conversion of The Valley adventure game.
-- [TINACOT](https://github.com/tonedef71/agon-tinacot) - An original game inspired by tower defense games and Tetris.
+- [TINACOT](https://github.com/tonedef71/agon-tinacot) - An original game inspired by tower defense games and Tetris. ([Preview on GitHub](https://github.com/tonedef71/agon-tinacot?tab=readme-ov-file#demo-playthrough))
 - [Vezza](https://sijnstra.itch.io/vezza-agon) - Vezza is a tool for running Infocom compatible (Z-machine) text adventure games.
 - [Wizard's Castle](https://github.com/thrazen/AgonLight) - The Wizard's castle modded for BBC Basic on the Agon Light.
 
