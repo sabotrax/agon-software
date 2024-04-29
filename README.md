@@ -110,6 +110,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [CP/M 2.2 for Agon Light (more disk images)](https://github.com/julian-rose/Agon-CPM2.2/tree/playpen) - Fork of Nihirash's CP/M 2.2 port for Agon Light with extra disk images.
 - [TRS-OS for Agon Light](https://github.com/sijnstra/agon-projects/tree/main/OSboot) - A bootstrap to run TRS-OS on Agon Light under MOS. TRS-OS is an eZ80 port of the LS-DOS TRS-80 operating system. No firmware change required.
 - [Zeal-8-bit-OS for Agon Light](https://github.com/sijnstra/agon-projects/tree/main/OSbootZ) - A bootstrap to run Zeal 8-bit on the Agon Light under MOS. No firmware change required.
+- [ZINC](https://github.com/nihirash/ZINC) - CP/M compatibility layer for Agon's MOS.
 
 ## Programming languages
 - [AgDev](https://github.com/pcawte/AgDev) - Port to Agon Light of TI-84-CE C/C++ Toolchain which uses LLVM and generates eZ80 ADL code.
