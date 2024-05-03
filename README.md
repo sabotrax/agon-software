@@ -57,6 +57,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Drug Wars](https://github.com/oldpatientsea/DRUG-WARS-for-the-Agon-Light) - An adaption of the DOS version of the game, converted to BBC BASIC (Z80) for the Agon Light.
 - [ELIZA](https://github.com/blufftek/agon-console8-basic/tree/main/ELIZA) - An adaptation of the first example of the ELIZA chatbot originally developed by Joseph Weizenbaum in the mid-60s.
 - [Escape the Mansion](https://github.com/richardturnnidge/adventure) - Multi-room graphical adventure.
+- [Eternal Castle](https://github.com/julian-rose/Eternal-Castle-adventure-for-Agon) - Eternal Castle text adventure for Agon Light.
 - [FSUDOKU](https://github.com/theflynn49/fsudoku) - Sudoku game app for Agon Light.
 - [Game of Life](https://github.com/craiglp/agon-life) - Conway's Game of Life for the Agon Light.
 - [Jotto 2020](https://github.com/tonedef71/agon-jotto-2020) - Jotto 2020 is a word puzzle game that cleverly combines the game mechanics of the games, Jotto and Mastermind. ([Preview on GitHub](https://github.com/tonedef71/agon-jotto-2020?tab=readme-ov-file#demo-playthrough))
