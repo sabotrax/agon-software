@@ -115,6 +115,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [ZINC](https://github.com/nihirash/ZINC) - CP/M compatibility layer for Agon's MOS.
 
 ## Programming languages
+- [A(gon)Basic](https://github.com/TKRoth/ABasic) - A Basic interpreter with developer enviroment.
 - [AgDev](https://github.com/pcawte/AgDev) - Port to Agon Light of TI-84-CE C/C++ Toolchain which uses LLVM and generates eZ80 ADL code.
 - [agon-ez80asm](https://github.com/envenomator/agon-ez80asm) - ez80 assembler, running natively on the Agon platform.
 - [Agon Forth](https://github.com/lennart-benschop/agon-forth) - Forth for Agon computer.
