@@ -139,7 +139,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Agon Flash](https://github.com/envenomator/agon-flash) - Agon firmware update utility.
 - [Agon Hex](https://github.com/HeathenUK/agon_hex) - Agon hex editor.
 - [Agon Light 2 Serial Printer](https://github.com/tdg8934/Agon-Light-2-Serial-Printer) - Mini Thermal Receipt Printer (Serial RxD).
-- [Agon Utilities](https://github.com/lennart-benschop/agon-utilities) - MOS utilities for Agon: comp, more, memfill, various font tools, recode, nano, mc
+- [Agon Utilities](https://github.com/lennart-benschop/agon-utilities) - MOS utilities for Agon: comp, more, memfill, various font tools, recode, nano, mc.
 - [Agon Utils](https://github.com/vascocosta/agon-utils) - Utilities for the Agon Light computer.
 - [Agon VDP installer](https://envenomator.github.io/) - Web installer for VDP binaries for the Agon platform.
 - [calc24](https://github.com/sijnstra/agon-projects/tree/main/calc24) - 24 bit integer calculations in both hex and decimal.
