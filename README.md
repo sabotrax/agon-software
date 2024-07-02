@@ -47,6 +47,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Agon VDP (Console8)](https://github.com/AgonConsole8/agon-vdp) - Official Firmware for the Agon Console8: ESP32 VDP.
  
 ## Games
+- [2048](https://github.com/sijnstra/agon-projects/tree/main/2048) - The classic game 2028 ported from CP/M.
 - [AgonLight Game Library](https://github.com/eightbitswide/AgonLight-Game-Library) - Games for the BBC Micro and Electron converted for AgonLight.
 - [Agon Light Invaders](https://github.com/pgregory/agon-light-invaders) - Invaders for the Agon Light.
 - [Agon Light Text Adventures](https://github.com/The-8bit-Noob/Agon_Light_Text_Adventures) - A Collection Of Text Adventure Games Ported To The Agon Light.
