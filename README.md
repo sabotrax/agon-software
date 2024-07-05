@@ -97,7 +97,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Sprite editor](https://github.com/robogeek42/agon_sped) - sped.bas is a sprite editor for the Agon series of retro computers.
 
 ## Internet
-- [Snail](https://github.com/nihirash/Agon-MOS-Tools/tree/main/esp8266/snail) - Fast gopher browser for Agon Light (and Agon Light 2).
+- [Snail](https://github.com/nihirash/agon-snail) - Snail gopher browser.
 
 ## Libraries and sample code
 - [Agon Basic](https://github.com/robogeek42/agon_basic_mycode) - Code repo for BBC Basic programs written for the Agon Light and Console8.
