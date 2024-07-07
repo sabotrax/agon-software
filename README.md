@@ -51,6 +51,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [AgonLight Game Library](https://github.com/eightbitswide/AgonLight-Game-Library) - Games for the BBC Micro and Electron converted for AgonLight.
 - [Agon Light Invaders](https://github.com/pgregory/agon-light-invaders) - Invaders for the Agon Light.
 - [Agon Light Text Adventures](https://github.com/The-8bit-Noob/Agon_Light_Text_Adventures) - A Collection Of Text Adventure Games Ported To The Agon Light.
+- [Akalabeth](https://github.com/sijnstra/Akalabeth) - Akalabeth: World of Doom.
 - [Dans la prison hantée](https://mokona78.itch.io/dans-la-prison-hante) - This prison is haunted. But this prison also hides a treasure. And finding treasures is your job.
 - [Death House](https://github.com/tonedef71/agon-death-house) - A BBC BASIC v3 port of the horror interactive fiction game coded for the Commodore 64 by Mark S. Boucher. ([Preview on GitHub](https://github.com/tonedef71/agon-death-house?tab=readme-ov-file#demo-playthrough))
 - [Diamond Quest](https://github.com/richardturnnidge/diamond) - eZ80 game on AgonLight. A simple game, built purely as a goal to learn z80 assembly routines on the Agon Light.
