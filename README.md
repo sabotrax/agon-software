@@ -133,6 +133,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 
 ## Simulation
 - [Mini-SPS](https://github.com/TKRoth/Mini-SPS) - PLC simulation (German).
+- [UE14500](https://github.com/sijnstra/agdev-projects/tree/main/ue14500) - simulation of the Usagi Electric Vacuum Tube Computer (UEVTC): a vacuum tube computer heavily inspired by the Motorola MC14500 1-bit ICU.
 
 ## Sound
 - [Agon MOD](https://github.com/HeathenUK/agon_mod) - Agon .MOD tracker.
