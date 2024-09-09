@@ -146,13 +146,13 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Agon Hex](https://github.com/HeathenUK/agon_hex) - Agon hex editor.
 - [Agon Light 2 Serial Printer](https://github.com/tdg8934/Agon-Light-2-Serial-Printer) - Mini Thermal Receipt Printer (Serial RxD).
 - [Agon Utilities](https://github.com/lennart-benschop/agon-utilities) - MOS utilities for Agon: comp, more, memfill, various font tools, recode, nano, mc.
-- [Agon Utils](https://github.com/vascocosta/agon-utils) - Utilities for the Agon Light computer.
+- [Agon Utils](https://github.com/vascocosta/agon-utils) - MOSlet Unix style utilities for the Agon Light computer: echo, grep, head, strings, tail, wc. Includes C source.
 - [Agon VDP installer](https://envenomator.github.io/) - Web installer for VDP binaries for the Agon platform.
 - [calc24](https://github.com/sijnstra/agon-projects/tree/main/calc24) - 24 bit integer calculations in both hex and decimal.
 - [Console8 Recover](https://github.com/envenomator/console8-recover) - Console8 MOS recover utility.
 - [eZapple](https://github.com/rickshoe2/AgonLight-Assembly-Programming) - eZapple machine language monitor.
 - [HEXLOAD utility](https://github.com/envenomator/agon-hexload) - Utility for the Agon platform, to load Intel HEX files over one of its serial ports.
-- [More Agon Utilities](https://github.com/sijnstra/agon-projects/tree/main) - MOS utilities including unzip (PK zip/windows compressed folder format), gunzip (GNU zip format), hexdump tools for interactive navigation of file or memory, strings to extract strings from a binary file.
+- [More Agon Utilities](https://github.com/sijnstra/agon-projects/tree/main) - MOS utilities. Includes: unzip (PK zip/windows compressed folder format), gunzip (GNU zip format), hexdump tools for interactive navigation of file or memory, strings to extract strings from a binary file. Includes ASM source.
 - [Tasks](https://github.com/vascocosta/agon-tasks) - Simple tasks/todo list program for the Agon Light™ 8-bit computer.
 
 ## License
