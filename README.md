@@ -69,6 +69,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 - [Lunar Lander](https://github.com/richardturnnidge/lunar_lander) - Lunar Lander Game.
 - [NOMIS](https://github.com/tonedef71/agon-nomis) - A clone of the classic game SIMON for AgonLight and BBC BASIC SDL. ([Preview on GitHub](https://github.com/tonedef71/agon-nomis?tab=readme-ov-file#demo-playthrough))
 - [Nova-Star](https://github.com/NicholasPratt/Nova-Star) - An original game for the Agon Light.
+- [Oregon Trail](https://github.com/LuzrBum/Agon-OregonTrail) - Oregon Trail for the Agon Light (TM) 8-bit computer.
 - [Painter](https://github.com/robogeek42/painter) - Painter game.
 - [Pitman](https://github.com/xianpinder/Agon/tree/main/Pitman) - Port of Pitman, written in BBC BASIC.
 - [Realm](https://github.com/NicholasPratt/Realm) - An adventure game for Agon Light.
