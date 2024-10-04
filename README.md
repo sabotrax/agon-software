@@ -99,6 +99,7 @@ A list of Software for the Agon Light modern 8-bit computers.
 ## Graphics
 - [ANSIplay](https://github.com/sijnstra/agon-projects/tree/main/ANSIplay) - MOS utility to play .ANS ANSI art files.
 - [btmg](https://github.com/8BitVino/btmg) - (B)itmap (T)ile (M)ap (G)enerator. A map generator for AgonLight/Console8 which uses bitmap (16x16) images to create a 14x14 playfield.
+- [miniGraf](https://github.com/DjPoke/miniGraf) - A BBC BASIC vectorial graphic tool for Agon series.
 - [MapMaker](https://github.com/8BitVino/mapmaker) - Build a map for your own BASIC game using MapMaker.
 - [Sprite editor](https://github.com/robogeek42/agon_sped) - sped.bas is a sprite editor for the Agon series of retro computers.
 
